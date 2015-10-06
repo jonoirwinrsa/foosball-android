@@ -204,7 +204,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/C:/Users/Jono/AndroidStudioProjects/foosball-android-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">Foosball</string>
+    <string name="app_name">You For Foos?</string>
     <string name="button_exit">Exit</string>
     <string name="button_new_match">New match</string>
     <string name="button_rematch">Rematch</string>

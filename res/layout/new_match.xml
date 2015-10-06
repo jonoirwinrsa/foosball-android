@@ -140,7 +140,7 @@
 						android:layout_height="wrap_content"
 						android:layout_width="wrap_content"
 						android:checked="true"
-						android:text="10"/>
+						android:text="9"/>
 
 				<RadioButton
 						android:id="@+id/radio_score_to_win_5"
