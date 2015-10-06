@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:7:2-9:35
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:9:4-33
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:8:4-30
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:11:2-62:16
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:12:4-36
+	android:icon
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:13:4-40
+activity#org.cniska.foosball.android.MainActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:15:3-22:14
+	android:label
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:17:5-37
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:16:5-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:18:4-21:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:19:5-56
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:19:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:20:15-62
+activity#org.cniska.foosball.android.NewMatchActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:24:3-47
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:24:13-45
+activity#org.cniska.foosball.android.PlayMatchActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:25:3-48
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:25:13-46
+activity#org.cniska.foosball.android.MatchSummaryActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:26:3-28:55
+	android:theme
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:28:5-53
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:27:5-41
+activity#org.cniska.foosball.android.StatisticsActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:29:3-49
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:29:13-47
+activity#org.cniska.foosball.android.ManagePlayersActivity
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:30:3-52
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:30:13-50
+service#org.cniska.foosball.android.SyncService
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:32:3-41:13
+	android:exported
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:34:5-28
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:33:5-32
+intent-filter#android.content.SyncAdapter
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:35:4-37:20
+action#android.content.SyncAdapter
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:36:5-57
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:36:13-55
+meta-data#android.content.SyncAdapter
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:38:4-40:43
+	android:resource
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:40:6-41
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:39:6-48
+service#org.cniska.foosball.android.RESTService
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:43:3-41
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:43:12-39
+receiver#org.cniska.foosball.android.RatingWidgetProvider
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:45:3-52:14
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:45:13-49
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:46:4-48:20
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:47:5-71
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:47:13-69
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:49:4-51:45
+	android:resource
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:51:6-43
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:50:6-47
+service#org.cniska.foosball.android.RatingWidgetService
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:54:3-56:63
+	android:permission
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:56:5-61
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:55:5-40
+provider#org.cniska.foosball.android.DataProvider
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:58:3-60:69
+	android:authorities
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:60:5-67
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:59:5-33
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:64:2-63
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:64:19-61
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:65:2-67
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:65:19-65
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:66:2-70
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:66:19-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:67:2-70
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:67:19-68
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:68:2-76
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:68:19-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:69:2-70
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:69:19-68
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:70:2-73
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:70:19-71
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:71:2-74
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:71:19-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:72:2-64
+	android:name
+		ADDED from C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\src\main\AndroidManifest.xml:72:19-62

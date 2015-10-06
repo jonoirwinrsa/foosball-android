@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:contentAuthority="org.cniska.foosball.android.DataProvider"
+			  android:accountType="com.google" /><!-- From: file:/C:/Users/Jono/AndroidStudioProjects/foosball-android-master/app/src/main/res/xml/syncadapter.xml -->

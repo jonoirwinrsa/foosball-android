@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/layout"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent"
+			  android:layout_margin="8dp">
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				  android:layout_width="match_parent"
+				  android:layout_height="match_parent"
+				  android:background="@android:color/background_dark"
+				  android:alpha="0.5"/>
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				  android:layout_width="match_parent"
+				  android:layout_height="match_parent"
+				  android:orientation="vertical">
+
+		<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingTop="8dp"
+				android:paddingRight="16dp"
+				android:paddingLeft="16dp"
+				android:textColor="@android:color/white"
+				android:textSize="24sp"
+				android:text="@string/app_name"/>
+
+		<ListView
+				android:id="@+id/rating_widget_list"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"/>
+
+		<TextView
+				android:id="@+id/rating_widget_list_empty"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="16dp"
+				android:textColor="@android:color/tertiary_text_dark"
+				android:text="@string/text_no_items_found"/>
+
+	</LinearLayout>
+
+</RelativeLayout><!-- From: file:/C:/Users/Jono/AndroidStudioProjects/foosball-android-master/app/src/main/res/layout/rating_widget.xml -->

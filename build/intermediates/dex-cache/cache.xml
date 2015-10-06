@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bcdc0950e64d56044034b88400c7d607f866321e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jono\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d5a72536b0bf80811d48eecab9f5f0b01c80f6ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\pre-dexed\debug\classes-0742cc57f44e3b2cabb76adbfaa1a0559176a268.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\pre-dexed\debug\classes-508e51f74371e7b77fa66ab9835d46c406b7d6d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Jono\AndroidStudioProjects\foosball-android-master\app\build\intermediates\pre-dexed\debug\classes-223a39355caf6c6adaafef453a6f9f8e0aeb3568.jar" />
+    </item>
+
+</items>
