@@ -29,20 +29,7 @@
 		<activity android:name=".StatisticsActivity"/>
 		<activity android:name=".ManagePlayersActivity"/>
 
-		<service
-				android:name=".SyncService"
-				android:exported="true">
-			<intent-filter>
-				<action android:name="android.content.SyncAdapter"/>
-			</intent-filter>
-			<meta-data
-					android:name="android.content.SyncAdapter"
-					android:resource="@xml/syncadapter"/>
-		</service>
-
-		<service android:name=".RESTService"/>
-
-		<receiver android:name=".RatingWidgetProvider">
+        <receiver android:name=".RatingWidgetProvider">
 			<intent-filter>
 				<action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
 			</intent-filter>
